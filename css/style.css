@@ -3772,8 +3772,7 @@ input[type="button"].btn-block {
         text-align: center;
         text-decoration: none;
         transition: background-color 0.3s;
-        z-index: 1
-        ;
+        z-index: 1;
     }
     
 
@@ -3795,19 +3794,19 @@ input[type="button"].btn-block {
         padding: 10px;
     }
         .whatsapp-button {
-          position: fixed;
-          bottom: 10px;
-          right: 10px;
-          padding: 10px;
-          font-size: 16px;
-          color: #fff;
-          background-color: #25d366;
-          border: none;
-          border-radius: 5px;
-          text-align: center;
-          text-decoration: none;
-          transition: background-color 0.3s;
-          z-index: 1;
+        position: fixed;
+        bottom: 10px;
+        right: 10px;
+        padding: 15px 18px;
+        font-size: 4px;
+        color: #fff;
+        background-color: #25d366;
+        border: none;
+        border-radius: 100px;
+        text-align: center;
+        text-decoration: none;
+        transition: background-color 0.3s;
+        z-index: 1;
       }  
 
 }
